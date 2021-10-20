@@ -1,0 +1,8 @@
+
+<div *ngIf="checkVar; else elseBlock">
+    <app-home-page></app-home-page>
+</div>
+<ng-template #elseBlock>
+    <router-outlet></router-outlet>
+    <app-login></app-login>
+</ng-template>
