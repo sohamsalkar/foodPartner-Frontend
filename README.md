@@ -1,2 +1,2 @@
 # foodPartner-Frontend
- final year project
+ final year Project
